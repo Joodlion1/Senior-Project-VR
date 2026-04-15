@@ -1,0 +1,15 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/VR Senior Project Scenario.unity
+    guid: 5a73df87000dd4b94b93b7e0109f3964
+  m_configObjects:
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: f72f90d794b9945bd834ce42603d1e18, type: 2}
+    com.unity.xr.openxr.settings4: {fileID: 11400000, guid: eb2e47f2817ad43b9bf359dd4d3371f8, type: 2}
+    xr.sdk.mock-hmd.settings: {fileID: 11400000, guid: fda75c66af269430db0c85ca48e184f4, type: 2}
+  m_UseUCBPForAssetBundles: 0
